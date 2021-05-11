@@ -3,9 +3,18 @@ h1 {
   font-size: 23px;
   font-weight: normal;
   font-style: italic;
+  border: 5px solid red;
 }
 
 p {
   text-align: center;
-  
+}
+
+img {
+  max-width: 400px;
+  width: 400px;
+  height: 400px;
+  background-color: #eee;
+  overflow: visible;
+  margin: 35px;
 }
